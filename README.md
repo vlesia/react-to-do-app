@@ -6,7 +6,7 @@ The React To-Do App is a simple yet powerful task management application built u
 
 ## Demo
 
-Check out the [DEMO]() to see the project in action!
+Check out the [DEMO](https://vlesia.github.io/react-to-do-app/) to see the project in action!
 
 ## Technologies Used
 
